@@ -1,0 +1,89 @@
+export const projectData=[
+    {
+        projectTitle:"EduBlink",
+        imgUrl:"",
+        tech:"MERN",
+        type:"live"
+    },
+    {
+        projectTitle:"EduBlink",
+        imgUrl:"",
+        tech:"MERN",
+        type:"live"
+    },
+    {
+        projectTitle:"EduBlink",
+        imgUrl:"",
+        tech:"MERN",
+        type:"live"
+    }
+    ,
+    {
+        projectTitle:"EduBlink",
+        imgUrl:"",
+        tech:"MERN",
+        type:"live"
+    },
+    ,
+    {
+        projectTitle:"EduBlink",
+        imgUrl:"",
+        tech:"MERN",
+        type:"live"
+    },
+    ,
+    {
+        projectTitle:"EduBlink",
+        imgUrl:"",
+        tech:"MERN",
+        type:"live"
+    },
+    ,
+    {
+        projectTitle:"EduBlink",
+        imgUrl:"",
+        tech:"MERN",
+        type:"live"
+    },
+    ,
+    {
+        projectTitle:"EduBlink",
+        imgUrl:"",
+        tech:"MERN",
+        type:"live"
+    },
+    ,
+    {
+        projectTitle:"EduBlink",
+        imgUrl:"",
+        tech:"MERN",
+        type:"live"
+    },
+    ,
+    {
+        projectTitle:"EduBlink",
+        imgUrl:"",
+        tech:"MERN",
+        type:"live"
+    },
+    ,
+    {
+        projectTitle:"EduBlink",
+        imgUrl:"",
+        tech:"MERN",
+        type:"live"
+    },
+    ,
+    {
+        projectTitle:"EduBlink",
+        imgUrl:"",
+        tech:"MERN",
+        type:"live"
+    },
+    
+    
+    
+
+    
+    
+]
