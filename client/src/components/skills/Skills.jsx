@@ -6,6 +6,7 @@ import { motion } from "framer-motion";
 import ProgressBar from "./ProgressBar/ProgressBar";
 const Skills = ({ skillRef }) => {
   return (
+    
     <section ref={skillRef} className="">
       <motion.div
         className="flex flex-col  bg-black lg:px-20 lg:py-14 sm:p-2"
@@ -22,7 +23,7 @@ const Skills = ({ skillRef }) => {
               </p>
             </span>
             <span>
-              <p className="text-white leading-loose sm:p-2 lg:px-5 text-[20px] lg:text-[30px] text-transparent font-extralight text-center ">
+              <p className="text-white leading-loose sm:p-2 lg:px-5 text-[15px] lg:text-[20px] text-transparent font-extralight text-center ">
                 As a dedicated and detail-oriented biomedical research
                 associate, I possess a comprehensive skill set essential for
                 advancing scientific knowledge in this dynamic field. My
@@ -54,6 +55,7 @@ const Skills = ({ skillRef }) => {
         >
           <span>Technologies Familiar With</span>
           <ProgressBar />
+
         </div>
       </motion.div>
     </section>

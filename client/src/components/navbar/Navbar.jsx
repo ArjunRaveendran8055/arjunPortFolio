@@ -44,7 +44,7 @@ const Navbar = ({ heroRef, skillRef, projectRef, footerRef }) => {
         >
           A<span className={`${y <= 850 ? "text-blue" : "text-white"}`}>R</span>
         </div>
-        <div className="nav-items-container hidden lg:flex lg: gap-40 font-bold ">
+        <div className="nav-items-container hidden lg:flex lg: gap-40 font-bold">
           <div className="cursor-pointer">
             <div
               className="hover:scale-150 transition duration-200"
@@ -111,7 +111,7 @@ const Navbar = ({ heroRef, skillRef, projectRef, footerRef }) => {
                 transition={{ duration: 0.6 }}
               >
                 <div className="flex flex-col">
-                  <div className="small-screen-nav-container flex flex-col gap-12 font-enriq mt-20">
+                  <div className="small-screen-nav-container flex flex-col gap-12 font-extralight mt-20">
                     <div className="cursor-pointer">
                       <div
                         className="hover:scale-150 transition duration-200"
